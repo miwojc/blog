@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "_yt_translate",
+            "content": "Step by step guide to add translations to youtube video . Login to youtube . | Select video you want to add translation to . | Click three dots and select ‘Add translations’ . | Click on `Switch language’ and select language you want to add translation for . | . Autotranslate . | Option: Check `credit my contribution` if you would like your name to be associated with the translation . . | Play stop edit subtitles . | Come back to it later as draft is saved for you . | If you want to correct auto translation just click on the cell with text and type . |",
+            "url": "https://miwojc.github.io/blog/2020/03/15/_yt_translate.html",
+            "relUrl": "/2020/03/15/_yt_translate.html",
+            "date": " • Mar 15, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://miwojc.github.io/blog/about/",
