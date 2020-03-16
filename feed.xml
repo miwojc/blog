@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://miwojc.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://miwojc.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-03-16T16:38:02-05:00</updated><id>https://miwojc.github.io/blog/feed.xml</id><title type="html">miwojc on Low Information Diet</title><subtitle>Just Another Deep Learning Blog</subtitle><entry><title type="html">_yt_translate</title><link href="https://miwojc.github.io/blog/2020/03/15/_yt_translate.html" rel="alternate" type="text/html" title="_yt_translate" /><published>2020-03-15T00:00:00-05:00</published><updated>2020-03-15T00:00:00-05:00</updated><id>https://miwojc.github.io/blog/2020/03/15/_yt_translate</id><content type="html" xml:base="https://miwojc.github.io/blog/2020/03/15/_yt_translate.html">&lt;p&gt;&lt;strong&gt;Step by step guide to add translations to youtube video&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://miwojc.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://miwojc.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-03-16T16:48:22-05:00</updated><id>https://miwojc.github.io/blog/feed.xml</id><title type="html">miwojc on Low Information Diet</title><subtitle>Just Another Deep Learning Blog</subtitle><entry><title type="html">_yt_translate</title><link href="https://miwojc.github.io/blog/2020/03/15/_yt_translate.html" rel="alternate" type="text/html" title="_yt_translate" /><published>2020-03-15T00:00:00-05:00</published><updated>2020-03-15T00:00:00-05:00</updated><id>https://miwojc.github.io/blog/2020/03/15/_yt_translate</id><content type="html" xml:base="https://miwojc.github.io/blog/2020/03/15/_yt_translate.html">&lt;p&gt;# Title&lt;/p&gt;
+
+&lt;p&gt;&amp;gt; Awesome summary&lt;/p&gt;
+
+&lt;p&gt;- toc: true- branch: master&lt;/p&gt;
+
+&lt;p&gt;- badges: true&lt;/p&gt;
+
+&lt;p&gt;- comments: true&lt;/p&gt;
+
+&lt;p&gt;- author: Hamel Husain &amp;amp; Jeremy Howard&lt;/p&gt;
+
+&lt;p&gt;- categories: [fastpages, jupyter]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step by step guide to add translations to youtube video&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -55,4 +69,4 @@
       &lt;p&gt;If you want to correct auto translation just click on the cell with text and type&lt;img src=&quot;https://miwojc.github.io/blog/assets/img/2020-03-15-_yt_translate/media/image6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Step by step guide to add translations to youtube video</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><summary type="html"># Title</summary></entry></feed>

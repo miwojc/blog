@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "_yt_translate",
-            "content": "Step by step guide to add translations to youtube video . Login to youtube . | Select video you want to add translation to . | Click three dots and select ‘Add translations’ . | Click on `Switch language’ and select language you want to add translation for . | . Autotranslate . | Option: Check `credit my contribution` if you would like your name to be associated with the translation . . | Play stop edit subtitles . | Come back to it later as draft is saved for you . | If you want to correct auto translation just click on the cell with text and type . |",
+            "content": "# Title . &gt; Awesome summary . - toc: true- branch: master . - badges: true . - comments: true . - author: Hamel Husain &amp; Jeremy Howard . - categories: [fastpages, jupyter] . Step by step guide to add translations to youtube video . Login to youtube . | Select video you want to add translation to . | Click three dots and select ‘Add translations’ . | Click on `Switch language’ and select language you want to add translation for . | . Autotranslate . | Option: Check `credit my contribution` if you would like your name to be associated with the translation . . | Play stop edit subtitles . | Come back to it later as draft is saved for you . | If you want to correct auto translation just click on the cell with text and type . |",
             "url": "https://miwojc.github.io/blog/2020/03/15/_yt_translate.html",
             "relUrl": "/2020/03/15/_yt_translate.html",
             "date": " • Mar 15, 2020"
