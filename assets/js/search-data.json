@@ -2,17 +2,6 @@
   
     
         "post0": {
-            "title": "_yt_translate",
-            "content": "# Title . &gt; Awesome summary . - toc: true- branch: master . - badges: true . - comments: true . - author: Hamel Husain &amp; Jeremy Howard . - categories: [fastpages, jupyter] . Step by step guide to add translations to youtube video . Login to youtube . | Select video you want to add translation to . | Click three dots and select ‘Add translations’ . | Click on `Switch language’ and select language you want to add translation for . | . Autotranslate . | Option: Check `credit my contribution` if you would like your name to be associated with the translation . . | Play stop edit subtitles . | Come back to it later as draft is saved for you . | If you want to correct auto translation just click on the cell with text and type . |",
-            "url": "https://miwojc.github.io/blog/2020/03/16/_yt_translate.html",
-            "relUrl": "/2020/03/16/_yt_translate.html",
-            "date": " • Mar 16, 2020"
-        }
-        
-    
-  
-    
-        ,"post1": {
             "title": "_steps To Add Translation To A Youtube Video",
             "content": "Login to youtube . Select a video you want add translation to . Click three dots and select ‘add translations . . Click on `Switch language’ and select language you want to add translation for . . Autotranslate is a good starting point . . Option: credit my contribution . . In the editor you can play, stop video and edit subtitles (a draft is auto saved so you can come back later to finish the translation) . . Once finished, submit the translation to the owner of the video for approval. Congratulations! .",
             "url": "https://miwojc.github.io/blog/2020/03/16/_Steps-to-add-translation-to-a-youtube-video.html",
